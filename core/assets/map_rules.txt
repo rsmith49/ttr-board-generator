@@ -1,0 +1,15 @@
+total: 950 x 600
+
+
+About 3 pixels per letter at .5
+
+Seattle: 23
+San Francisco: 46
+
+About 4 pixels per letter at .6
+
+Seattle: 26
+San Francisco: 54
+
+Denver Kansas City hashcode 1: 180036680
+hashcode 2:

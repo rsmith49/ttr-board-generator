@@ -1,0 +1,1469 @@
+{
+  "destinations": [
+    {
+      "name": "Vancouver",
+      "routes": [
+        {
+          "start": "Vancouver",
+          "end": "Seattle",
+          "length": 1,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["ANY", "ANY"]
+        },
+        {
+          "start": "Vancouver",
+          "end": "Calgary",
+          "length": 3,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        }
+      ],
+      "xCord": 70,
+      "yCord": 540
+    },
+    {
+      "name": "Seattle",
+      "routes": [
+        {
+          "start": "Seattle",
+          "end": "Helena",
+          "length": 6,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["YELLOW"]
+        },
+        {
+          "start": "Seattle",
+          "end": "Calgary",
+          "length": 4,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Seattle",
+          "end": "Portland",
+          "length": 1,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["ANY", "ANY"]
+        },
+        {
+          "start": "Seattle",
+          "end": "Vancouver",
+          "length": 1,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["ANY", "ANY"]
+        }
+      ],
+      "xCord": 67,
+      "yCord": 485
+    },
+    {
+      "name": "Portland",
+      "routes": [
+        {
+          "start": "Portland",
+          "end": "Seattle",
+          "length": 1,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["ANY", "ANY"]
+        },
+        {
+          "start": "Portland",
+          "end": "San Francisco",
+          "length": 5,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["GREEN", "PINK"]
+        },
+        {
+          "start": "Portland",
+          "end": "Salt Lake City",
+          "length": 6,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["BLUE"]
+        }
+      ],
+      "xCord": 45,
+      "yCord": 433
+    },
+    {
+      "name": "San Francisco",
+      "routes": [
+        {
+          "start": "San Francisco",
+          "end": "Portland",
+          "length": 5,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["GREEN", "PINK"]
+        },
+        {
+          "start": "San Francisco",
+          "end": "Salt Lake City",
+          "length": 5,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["ORANGE", "WHITE"]
+        },
+        {
+          "start": "San Francisco",
+          "end": "Los Angeles",
+          "length": 3,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["YELLOW", "PINK"]
+        }
+      ],
+      "xCord": 32,
+      "yCord": 236
+    },
+    {
+      "name": "Los Angeles",
+      "routes": [
+        {
+          "start": "Los Angeles",
+          "end": "San Francisco",
+          "length": 3,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["YELLOW", "PINK"]
+        },
+        {
+          "start": "Los Angeles",
+          "end": "Las Vegas",
+          "length": 2,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Los Angeles",
+          "end": "Phoenix",
+          "length": 3,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Los Angeles",
+          "end": "El Paso",
+          "length": 6,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["BLACK"]
+        }
+      ],
+      "xCord": 110,
+      "yCord": 132
+    },
+    {
+      "name": "Calgary",
+      "routes": [
+        {
+          "start": "Calgary",
+          "end": "Vancouver",
+          "length": 3,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Calgary",
+          "end": "Seattle",
+          "length": 4,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Calgary",
+          "end": "Helena",
+          "length": 4,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Calgary",
+          "end": "Winnipeg",
+          "length": 6,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["WHITE"]
+        }
+      ],
+      "xCord": 200,
+      "yCord": 556
+    },
+    {
+      "name": "Helena",
+      "routes": [
+        {
+          "start": "Helena",
+          "end": "Calgary",
+          "length": 4,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Helena",
+          "end": "Seattle",
+          "length": 6,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["YELLOW"]
+        },
+        {
+          "start": "Helena",
+          "end": "Salt Lake City",
+          "length": 3,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["PINK"]
+        },
+        {
+          "start": "Helena",
+          "end": "Winnipeg",
+          "length": 4,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["BLUE"]
+        },
+        {
+          "start": "Helena",
+          "end": "Duluth",
+          "length": 6,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ORANGE"]
+        },
+        {
+          "start": "Helena",
+          "end": "Omaha",
+          "length": 5,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["RED"]
+        },
+        {
+          "start": "Helena",
+          "end": "Denver",
+          "length": 4,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["GREEN"]
+        }
+      ],
+      "xCord": 302,
+      "yCord": 424
+    },
+    {
+      "name": "Salt Lake City",
+      "routes": [
+        {
+          "start": "Salt Lake City",
+          "end": "Helena",
+          "length": 3,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["PINK"]
+        },
+        {
+          "start": "Salt Lake City",
+          "end": "Portland",
+          "length": 6,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["BLUE"]
+        },
+        {
+          "start": "Salt Lake City",
+          "end": "San Francisco",
+          "length": 5,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["ORANGE", "WHITE"]
+        },
+        {
+          "start": "Salt Lake City",
+          "end": "Las Vegas",
+          "length": 3,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ORANGE"]
+        },
+        {
+          "start": "Salt Lake City",
+          "end": "Denver",
+          "length": 3,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["RED", "YELLOW"]
+        }
+      ],
+      "xCord": 230,
+      "yCord": 300
+    },
+    {
+      "name": "Las Vegas",
+      "routes": [
+        {
+          "start": "Las Vegas",
+          "end": "Salt Lake City",
+          "length": 3,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ORANGE"]
+        },
+        {
+          "start": "Las Vegas",
+          "end": "Los Angeles",
+          "length": 2,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        }
+      ],
+      "xCord": 175,
+      "yCord": 190
+    },
+    {
+      "name": "Phoenix",
+      "routes": [
+        {
+          "start": "Phoenix",
+          "end": "Los Angeles",
+          "length": 3,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Phoenix",
+          "end": "Denver",
+          "length": 5,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["WHITE"]
+        },
+        {
+          "start": "Phoenix",
+          "end": "Santa Fe",
+          "length": 3,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Phoenix",
+          "end": "El Paso",
+          "length": 3,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        }
+      ],
+      "xCord": 230,
+      "yCord": 125
+    },
+    {
+      "name": "Winnipeg",
+      "routes": [
+        {
+          "start": "Winnipeg",
+          "end": "Calgary",
+          "length": 6,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["WHITE"]
+        },
+        {
+          "start": "Winnipeg",
+          "end": "Helena",
+          "length": 4,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["BLUE"]
+        },
+        {
+          "start": "Winnipeg",
+          "end": "Saul St. Marie",
+          "length": 6,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Winnipeg",
+          "end": "Duluth",
+          "length": 4,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["BLACK"]
+        }
+      ],
+      "xCord": 426,
+      "yCord": 546
+    },
+    {
+      "name": "Denver",
+      "routes": [
+        {
+          "start": "Denver",
+          "end": "Helena",
+          "length": 4,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["GREEN"]
+        },
+        {
+          "start": "Denver",
+          "end": "Salt Lake City",
+          "length": 3,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["RED", "YELLOW"]
+        },
+        {
+          "start": "Denver",
+          "end": "Phoenix",
+          "length": 5,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["WHITE"]
+        },
+        {
+          "start": "Denver",
+          "end": "Santa Fe",
+          "length": 2,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Denver",
+          "end": "Omaha",
+          "length": 4,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["PINK"]
+        },
+        {
+          "start": "Denver",
+          "end": "Kansas City",
+          "length": 4,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["BLACK", "ORANGE"]
+        },
+        {
+          "start": "Denver",
+          "end": "Oklahoma City",
+          "length": 4,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["RED"]
+        }
+      ],
+      "xCord": 360,
+      "yCord": 268
+    },
+    {
+      "name": "Santa Fe",
+      "routes": [
+        {
+          "start": "Santa Fe",
+          "end": "Denver",
+          "length": 2,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Santa Fe",
+          "end": "Phoenix",
+          "length": 3,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Santa Fe",
+          "end": "El Paso",
+          "length": 2,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Santa Fe",
+          "end": "Oklahoma City",
+          "length": 3,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["BLUE"]
+        }
+      ],
+      "xCord": 355,
+      "yCord": 180
+    },
+    {
+      "name": "El Paso",
+      "routes": [
+        {
+          "start": "El Paso",
+          "end": "Santa Fe",
+          "length": 2,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "El Paso",
+          "end": "Phoenix",
+          "length": 3,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "El Paso",
+          "end": "Los Angeles",
+          "length": 6,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["BLACK"]
+        },
+        {
+          "start": "El Paso",
+          "end": "Oklahoma City",
+          "length": 5,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["YELLOW"]
+        },
+        {
+          "start": "El Paso",
+          "end": "Dallas",
+          "length": 4,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["RED"]
+        },
+        {
+          "start": "El Paso",
+          "end": "Houston",
+          "length": 6,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["GREEN"]
+        }
+      ],
+      "xCord": 348,
+      "yCord": 88
+    },
+    {
+      "name": "Duluth",
+      "routes": [
+        {
+          "start": "Duluth",
+          "end": "Winnipeg",
+          "length": 4,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["BLACK"]
+        },
+        {
+          "start": "Duluth",
+          "end": "Helena",
+          "length": 6,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ORANGE"]
+        },
+        {
+          "start": "Duluth",
+          "end": "Omaha",
+          "length": 2,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["ANY", "ANY"]
+        },
+        {
+          "start": "Duluth",
+          "end": "Saul St. Marie",
+          "length": 3,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Duluth",
+          "end": "Toronto",
+          "length": 6,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["PINK"]
+        },
+        {
+          "start": "Duluth",
+          "end": "Chicago",
+          "length": 3,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["RED"]
+        }
+      ],
+      "xCord": 540,
+      "yCord": 430
+    },
+    {
+      "name": "Omaha",
+      "routes": [
+        {
+          "start": "Omaha",
+          "end": "Duluth",
+          "length": 2,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["ANY", "ANY"]
+        },
+        {
+          "start": "Omaha",
+          "end": "Helena",
+          "length": 5,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["RED"]
+        },
+        {
+          "start": "Omaha",
+          "end": "Denver",
+          "length": 4,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["PINK"]
+        },
+        {
+          "start": "Omaha",
+          "end": "Chicago",
+          "length": 4,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["BLUE"]
+        },
+        {
+          "start": "Omaha",
+          "end": "Kansas City",
+          "length": 1,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["ANY", "ANY"]
+        }
+      ],
+      "xCord": 507,
+      "yCord": 340
+    },
+    {
+      "name": "Kansas City",
+      "routes": [
+        {
+          "start": "Kansas City",
+          "end": "Omaha",
+          "length": 1,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["ANY", "ANY"]
+        },
+        {
+          "start": "Kansas City",
+          "end": "Denver",
+          "length": 4,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["ORANGE", "BLACK"]
+        },
+        {
+          "start": "Kansas City",
+          "end": "Oklahoma City",
+          "length": 2,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["ANY", "ANY"]
+        },
+        {
+          "start": "Kansas City",
+          "end": "Saint Louis",
+          "length": 2,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["BLUE", "PINK"]
+        }
+      ],
+      "xCord": 530,
+      "yCord": 290
+    },
+    {
+      "name": "Oklahoma City",
+      "routes": [
+        {
+          "start": "Oklahoma City",
+          "end": "Kansas City",
+          "length": 2,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["ANY", "ANY"]
+        },
+        {
+          "start": "Oklahoma City",
+          "end": "Denver",
+          "length": 4,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["RED"]
+        },
+        {
+          "start": "Oklahoma City",
+          "end": "Santa Fe",
+          "length": 3,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["BLUE"]
+        },
+        {
+          "start": "Oklahoma City",
+          "end": "El Paso",
+          "length": 5,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["YELLOW"]
+        },
+        {
+          "start": "Oklahoma City",
+          "end": "Dallas",
+          "length": 2,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["ANY", "ANY"]
+        },
+        {
+          "start": "Oklahoma City",
+          "end": "Little Rock",
+          "length": 2,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        }
+      ],
+      "xCord": 510,
+      "yCord": 200
+    },
+    {
+      "name": "Dallas",
+      "routes": [
+        {
+          "start": "Dallas",
+          "end": "Oklahoma City",
+          "length": 2,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["ANY", "ANY"]
+        },
+        {
+          "start": "Dallas",
+          "end": "El Paso",
+          "length": 4,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["RED"]
+        },
+        {
+          "start": "Dallas",
+          "end": "Little Rock",
+          "length": 2,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Dallas",
+          "end": "Houston",
+          "length": 1,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["ANY", "ANY"]
+        }
+      ],
+      "xCord": 530,
+      "yCord": 115
+    },
+    {
+      "name": "Houston",
+      "routes": [
+        {
+          "start": "Houston",
+          "end": "Dallas",
+          "length": 1,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["ANY", "ANY"]
+        },
+        {
+          "start": "Houston",
+          "end": "El Paso",
+          "length": 6,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["GREEN"]
+        },
+        {
+          "start": "Houston",
+          "end": "New Orleans",
+          "length": 2,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        }
+      ],
+      "xCord": 570,
+      "yCord": 73
+    },
+    {
+      "name": "Saul St. Marie",
+      "routes": [
+        {
+          "start": "Saul St. Marie",
+          "end": "Winnipeg",
+          "length": 6,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Saul St. Marie",
+          "end": "Duluth",
+          "length": 3,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Saul St. Marie",
+          "end": "Montreal",
+          "length": 5,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["BLACK"]
+        },
+        {
+          "start": "Saul St. Marie",
+          "end": "Toronto",
+          "length": 2,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        }
+      ],
+      "xCord": 665,
+      "yCord": 497
+    },
+    {
+      "name": "Chicago",
+      "routes": [
+        {
+          "start": "Chicago",
+          "end": "Duluth",
+          "length": 3,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["RED"]
+        },
+        {
+          "start": "Chicago",
+          "end": "Omaha",
+          "length": 4,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["BLUE"]
+        },
+        {
+          "start": "Chicago",
+          "end": "Saint Louis",
+          "length": 2,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["GREEN", "WHITE"]
+        },
+        {
+          "start": "Chicago",
+          "end": "Toronto",
+          "length": 4,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["WHITE"]
+        },
+        {
+          "start": "Chicago",
+          "end": "Pittsburgh",
+          "length": 3,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["BLACK", "ORANGE"]
+        }
+      ],
+      "xCord": 663,
+      "yCord": 370
+    },
+    {
+      "name": "Saint Louis",
+      "routes": [
+        {
+          "start": "Saint Louis",
+          "end": "Chicago",
+          "length": 2,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["WHITE", "GREEN"]
+        },
+        {
+          "start": "Saint Louis",
+          "end": "Kansas City",
+          "length": 2,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["PINK", "BLUE"]
+        },
+        {
+          "start": "Saint Louis",
+          "end": "Little Rock",
+          "length": 2,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Saint Louis",
+          "end": "Pittsburgh",
+          "length": 5,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["GREEN"]
+        },
+        {
+          "start": "Saint Louis",
+          "end": "Nashville",
+          "length": 2,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        }
+      ],
+      "xCord": 615,
+      "yCord": 287
+    },
+    {
+      "name": "Little Rock",
+      "routes": [
+        {
+          "start": "Little Rock",
+          "end": "Saint Louis",
+          "length": 2,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Little Rock",
+          "end": "Oklahoma City",
+          "length": 2,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Little Rock",
+          "end": "Dallas",
+          "length": 2,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Little Rock",
+          "end": "Nashville",
+          "length": 3,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["WHITE"]
+        },
+        {
+          "start": "Little Rock",
+          "end": "New Orleans",
+          "length": 3,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["GREEN"]
+        }
+      ],
+      "xCord": 600,
+      "yCord": 200
+    },
+    {
+      "name": "New Orleans",
+      "routes": [
+        {
+          "start": "New Orleans",
+          "end": "Little Rock",
+          "length": 3,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["GREEN"]
+        },
+        {
+          "start": "New Orleans",
+          "end": "Houston",
+          "length": 2,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "New Orleans",
+          "end": "Atlanta",
+          "length": 4,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["YELLOW", "ORANGE"]
+        },
+        {
+          "start": "New Orleans",
+          "end": "Miami",
+          "length": 6,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["RED"]
+        }
+      ],
+      "xCord": 665,
+      "yCord": 85
+    },
+    {
+      "name": "Toronto",
+      "routes": [
+        {
+          "start": "Toronto",
+          "end": "Saul St. Marie",
+          "length": 2,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Toronto",
+          "end": "Duluth",
+          "length": 6,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["PINK"]
+        },
+        {
+          "start": "Toronto",
+          "end": "Chicago",
+          "length": 4,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["WHITE"]
+        },
+        {
+          "start": "Toronto",
+          "end": "Montreal",
+          "length": 3,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Toronto",
+          "end": "Pittsburgh",
+          "length": 2,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        }
+      ],
+      "xCord": 775,
+      "yCord": 475
+    },
+    {
+      "name": "Pittsburgh",
+      "routes": [
+        {
+          "start": "Pittsburgh",
+          "end": "Toronto",
+          "length": 2,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Pittsburgh",
+          "end": "Chicago",
+          "length": 3,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["ORANGE", "BLACK"]
+        },
+        {
+          "start": "Pittsburgh",
+          "end": "Saint Louis",
+          "length": 5,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["GREEN"]
+        },
+        {
+          "start": "Pittsburgh",
+          "end": "Nashville",
+          "length": 4,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["YELLOW"]
+        },
+        {
+          "start": "Pittsburgh",
+          "end": "New York",
+          "length": 2,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["GREEN", "WHITE"]
+        },
+        {
+          "start": "Pittsburgh",
+          "end": "Washington",
+          "length": 2,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Pittsburgh",
+          "end": "Raleigh",
+          "length": 2,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        }
+      ],
+      "xCord": 790,
+      "yCord": 385
+    },
+    {
+      "name": "Nashville",
+      "routes": [
+        {
+          "start": "Nashville",
+          "end": "Pittsburgh",
+          "length": 4,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["YELLOW"]
+        },
+        {
+          "start": "Nashville",
+          "end": "Saint Louis",
+          "length": 2,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Nashville",
+          "end": "Little Rock",
+          "length": 3,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["WHITE"]
+        },
+        {
+          "start": "Nashville",
+          "end": "Raleigh",
+          "length": 3,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["BLACK"]
+        },
+        {
+          "start": "Nashville",
+          "end": "Atlanta",
+          "length": 1,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        }
+      ],
+      "xCord": 710,
+      "yCord": 247
+    },
+    {
+      "name": "Atlanta",
+      "routes": [
+        {
+          "start": "Atlanta",
+          "end": "Nashville",
+          "length": 1,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Atlanta",
+          "end": "New Orleans",
+          "length": 4,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["ORANGE", "YELLOW"]
+        },
+        {
+          "start": "Atlanta",
+          "end": "Raleigh",
+          "length": 2,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["ANY", "ANY"]
+        },
+        {
+          "start": "Atlanta",
+          "end": "Charleston",
+          "length": 2,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Atlanta",
+          "end": "Miami",
+          "length": 5,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["BLUE"]
+        }
+      ],
+      "xCord": 760,
+      "yCord": 213
+    },
+    {
+      "name": "Montreal",
+      "routes": [
+        {
+          "start": "Montreal",
+          "end": "Saul St. Marie",
+          "length": 5,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["BLACK"]
+        },
+        {
+          "start": "Montreal",
+          "end": "Toronto",
+          "length": 3,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Montreal",
+          "end": "Boston",
+          "length": 2,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["ANY", "ANY"]
+        },
+        {
+          "start": "Montreal",
+          "end": "New York",
+          "length": 3,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["BLUE"]
+        }
+      ],
+      "xCord": 858,
+      "yCord": 563
+    },
+    {
+      "name": "Boston",
+      "routes": [
+        {
+          "start": "Boston",
+          "end": "Montreal",
+          "length": 2,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["ANY", "ANY"]
+        },
+        {
+          "start": "Boston",
+          "end": "New York",
+          "length": 2,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["RED", "YELLOW"]
+        }
+      ],
+      "xCord": 929,
+      "yCord": 501
+    },
+    {
+      "name": "New York",
+      "routes": [
+        {
+          "start": "New York",
+          "end": "Montreal",
+          "length": 3,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["BLUE"]
+        },
+        {
+          "start": "New York",
+          "end": "Pittsburgh",
+          "length": 2,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["GREEN", "WHITE"]
+        },
+        {
+          "start": "New York",
+          "end": "Boston",
+          "length": 2,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["YELLOW", "RED"]
+        },
+        {
+          "start": "New York",
+          "end": "Washington",
+          "length": 2,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["ORANGE", "BLACK"]
+        }
+      ],
+      "xCord": 876,
+      "yCord": 428
+    },
+    {
+      "name": "Washington",
+      "routes": [
+        {
+          "start": "Washington",
+          "end": "New York",
+          "length": 2,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["ORANGE", "BLACK"]
+        },
+        {
+          "start": "Washington",
+          "end": "Pittsburgh",
+          "length": 2,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Washington",
+          "end": "Raleigh",
+          "length": 2,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["ANY", "ANY"]
+        }
+      ],
+      "xCord": 886,
+      "yCord": 336
+    },
+    {
+      "name": "Raleigh",
+      "routes": [
+        {
+          "start": "Raleigh",
+          "end": "Washington",
+          "length": 2,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["ANY", "ANY"]
+        },
+        {
+          "start": "Raleigh",
+          "end": "Pittsburgh",
+          "length": 2,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Raleigh",
+          "end": "Nashville",
+          "length": 3,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["BLACK"]
+        },
+        {
+          "start": "Raleigh",
+          "end": "Atlanta",
+          "length": 2,
+          "tracksAvailable": 2,
+          "colorsAllowed": ["ANY", "ANY"]
+        },
+        {
+          "start": "Raleigh",
+          "end": "Charleston",
+          "length": 2,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        }
+      ],
+      "xCord": 827,
+      "yCord": 267
+    },
+    {
+      "name": "Charleston",
+      "routes": [
+        {
+          "start": "Charleston",
+          "end": "Raleigh",
+          "length": 2,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Charleston",
+          "end": "Atlanta",
+          "length": 2,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["ANY"]
+        },
+        {
+          "start": "Charleston",
+          "end": "Miami",
+          "length": 4,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["PINK"]
+        }
+      ],
+      "xCord": 856,
+      "yCord": 204
+    },{
+      "name": "Miami",
+      "routes": [
+        {
+          "start": "Miami",
+          "end": "Charleston",
+          "length": 4,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["PINK"]
+        },
+        {
+          "start": "Miami",
+          "end": "Atlanta",
+          "length": 5,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["BLUE"]
+        },
+        {
+          "start": "Miami",
+          "end": "New Orleans",
+          "length": 6,
+          "tracksAvailable": 1,
+          "colorsAllowed": ["RED"]
+        }
+      ],
+      "xCord": 887,
+      "yCord": 46
+    }
+  ],
+  "ticketCards": [
+    {
+      "start": "Los Angeles",
+      "end": "New York"
+    },
+    {
+      "start": "Duluth",
+      "end": "Houston"
+    },
+    {
+      "start": "Saul St. Marie",
+      "end": "Nashville"
+    },
+    {
+      "start": "New York",
+      "end": "Atlanta"
+    },
+    {
+      "start": "Portland",
+      "end": "Nashville"
+    },
+    {
+      "start": "Vancouver",
+      "end": "Montreal"
+    },
+    {
+      "start": "Duluth",
+      "end": "El Paso"
+    },
+    {
+      "start": "Toronto",
+      "end": "Miami"
+    },
+    {
+      "start": "Portland",
+      "end": "Phoenix"
+    },
+    {
+      "start": "Dallas",
+      "end": "New York"
+    },
+    {
+      "start": "Calgary",
+      "end": "Salt Lake City"
+    },
+    {
+      "start": "Calgary",
+      "end": "Phoenix"
+    },
+    {
+      "start": "Los Angeles",
+      "end": "Miami"
+    },
+    {
+      "start": "Winnipeg",
+      "end": "Little Rock"
+    },
+    {
+      "start": "San Francisco",
+      "end": "Atlanta"
+    },
+    {
+      "start": "Kansas City",
+      "end": "Houston"
+    },
+    {
+      "start": "Los Angeles",
+      "end": "Chicago"
+    },
+    {
+      "start": "Denver",
+      "end": "Pittsburgh"
+    },
+    {
+      "start": "Chicago",
+      "end": "Santa Fe"
+    },
+    {
+      "start": "Vancouver",
+      "end": "Santa Fe"
+    },
+    {
+      "start": "Boston",
+      "end": "Miami"
+    },
+    {
+      "start": "Chicago",
+      "end": "New Orleans"
+    },
+    {
+      "start": "Montreal",
+      "end": "Atlanta"
+    },
+    {
+      "start": "Seattle",
+      "end": "New York"
+    },
+    {
+      "start": "Denver",
+      "end": "El Paso"
+    },
+    {
+      "start": "Helena",
+      "end": "Los Angeles"
+    },
+    {
+      "start": "Winnipeg",
+      "end": "Houston"
+    },
+    {
+      "start": "Montreal",
+      "end": "New Orleans"
+    },
+    {
+      "start": "Saul St. Marie",
+      "end": "Oklahoma City"
+    },
+    {
+      "start": "Seattle",
+      "end": "Los Angeles"
+    }
+  ]
+}

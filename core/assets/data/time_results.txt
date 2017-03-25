@@ -1,0 +1,129 @@
+Generation Size: 100
+Generation 40 generated, Avg Best Fitness: 1.6199400142594673
+Took: 47.946 seconds
+Average time taken: 47.946
+Generation 40 generated, Avg Best Fitness: 0.2029310057397164
+Took: 51.597 seconds
+Average time taken: 51.597
+Generation 40 generated, Avg Best Fitness: 33.54706185791618
+Took: 45.554 seconds
+Average time taken: 45.554
+Generation 40 generated, Avg Best Fitness: 0.801198120216922
+Took: 47.205 seconds
+Average time taken: 47.205
+Generation 40 generated, Avg Best Fitness: 12.888055965573562
+Took: 46.718 seconds
+Average time taken: 46.718
+Generation 40 generated, Avg Best Fitness: 0.10827429545552938
+Took: 50.405 seconds
+Average time taken: 50.405
+Generation 40 generated, Avg Best Fitness: 1.232200225647897
+Took: 50.197 seconds
+Average time taken: 50.197
+Generation 40 generated, Avg Best Fitness: 1.5960046552201919
+Took: 42.438 seconds
+Average time taken: 42.438
+
+Generation Size: 200
+Generation 40 generated, Avg Best Fitness: 1.0285917518052732
+Took: 89.824 seconds
+Average time taken: 89.824
+Generation 40 generated, Avg Best Fitness: 73.63748078836986
+Took: 85.64 seconds
+Average time taken: 85.64
+Generation 40 generated, Avg Best Fitness: 0.3542827029176901
+Took: 98.018 seconds
+Average time taken: 98.018
+Generation 40 generated, Avg Best Fitness: 45.62395287813996
+Took: 93.436 seconds
+Average time taken: 93.436
+Generation 40 generated, Avg Best Fitness: 0.8260458489568443
+Took: 87.641 seconds
+Average time taken: 87.641
+Generation 40 generated, Avg Best Fitness: 13.961681583076167
+Took: 91.293 seconds
+Average time taken: 91.293
+Generation 40 generated, Avg Best Fitness: 0.38100388763413423
+Took: 109.957 seconds
+Average time taken: 109.957
+Generation 40 generated, Avg Best Fitness: 10.807154063696043
+Took: 93.861 seconds
+Average time taken: 93.861
+
+Generation Size: 300
+Generation 40 generated, Avg Best Fitness: 198.94326579454165
+Took: 138.454 seconds
+Average time taken: 138.454
+Generation 40 generated, Avg Best Fitness: 0.29768133841950506
+Took: 145.886 seconds
+Average time taken: 145.886
+Generation 40 generated, Avg Best Fitness: 53.349269627011154
+Took: 153.729 seconds
+Average time taken: 153.729
+Generation 40 generated, Avg Best Fitness: 0.8874945148604706
+Took: 131.21 seconds
+Average time taken: 131.21
+Generation 40 generated, Avg Best Fitness: 0.8425761317057647
+Took: 125.763 seconds
+Average time taken: 125.763
+Generation 40 generated, Avg Best Fitness: 0.6335870570512397
+Took: 151.586 seconds
+Average time taken: 151.586
+Generation 40 generated, Avg Best Fitness: 0.27016321357398126
+Took: 148.671 seconds
+Average time taken: 148.671
+Generation 40 generated, Avg Best Fitness: 14.658615670664668
+Took: 138.199 seconds
+Average time taken: 138.199
+
+Generation Size: 400
+Generation 40 generated, Avg Best Fitness: 56.285845209810944
+Took: 191.91 seconds
+Average time taken: 191.91
+Generation 40 generated, Avg Best Fitness: 0.23820277168455525
+Took: 198.06 seconds
+Average time taken: 198.06
+Generation 40 generated, Avg Best Fitness: 0.27233106742376206
+Took: 175.325 seconds
+Average time taken: 175.325
+Generation 40 generated, Avg Best Fitness: 143.15421040198413
+Took: 192.46 seconds
+Average time taken: 192.46
+Generation 40 generated, Avg Best Fitness: 210.71568114192524
+Took: 190.754 seconds
+Average time taken: 190.754
+Generation 40 generated, Avg Best Fitness: 2.0304278353623673
+Took: 193.041 seconds
+Average time taken: 193.041
+Generation 40 generated, Avg Best Fitness: 4.769906759181488
+Took: 178.807 seconds
+Average time taken: 178.807
+Generation 40 generated, Avg Best Fitness: 177.85091332490148
+Took: 213.545 seconds
+Average time taken: 213.545
+
+Generation Size: 500
+Generation 40 generated, Avg Best Fitness: 8.935463522663685
+Took: 227.069 seconds
+Average time taken: 227.069
+Generation 40 generated, Avg Best Fitness: 122.13594846438066
+Took: 226.609 seconds
+Average time taken: 226.609
+Generation 40 generated, Avg Best Fitness: 30.586508251695513
+Took: 213.605 seconds
+Average time taken: 213.605
+Generation 40 generated, Avg Best Fitness: 10.030722306140675
+Took: 267.213 seconds
+Average time taken: 267.213
+Generation 40 generated, Avg Best Fitness: 39.997074060186094
+Took: 266.763 seconds
+Average time taken: 266.763
+Generation 40 generated, Avg Best Fitness: 283.70787601929044
+Took: 232.583 seconds
+Average time taken: 232.583
+Generation 40 generated, Avg Best Fitness: 1.1326663830865524
+Took: 250.136 seconds
+Average time taken: 250.136
+Generation 40 generated, Avg Best Fitness: 238.36305914416985
+Took: 216.127 seconds
+Average time taken: 216.127
