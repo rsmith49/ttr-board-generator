@@ -3,7 +3,7 @@ A playable implementation of the board game Ticket to Ride, which has the option
 
 
 # Playing the Game
-To run the jar file located in desktop/build/libs/desktop-1.0.jar, use java -jar <file>
+To run the jar file located in desktop/build/libs/desktop-1.0.jar, use java -jar [jar_file_name]
 
 To import project to Intellij, select Import Project, and select the gradle.build file. Then on the next prompt, uncheck "Create separate module per source set"
 
