@@ -1,6 +1,8 @@
 # ttr-board-generator
 A playable implementation of the board game Ticket to Ride, which has the option to generate a novel board with each play.
 
+[A report of the project that gives a good overview](https://github.com/rsmith49/ttr-board-generator/blob/master/CPE_570_Ticket_To_Ride.pdf)
+
 
 # Playing the Game
 To run the jar file located in desktop/build/libs/desktop-1.0.jar, use java -jar [jar_file_name]
